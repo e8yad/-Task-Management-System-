@@ -1,0 +1,11 @@
+D:\TasksProject\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\TasksProject\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\TasksProject\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\TasksProject\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\TasksProject\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\TasksProject\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\TasksProject\BussinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\TasksProject\BussinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\TasksProject\BussinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\TasksProject\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\TasksProject\BussinessLayer\obj\Debug\BussinessLayer.pdb

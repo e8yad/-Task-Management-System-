@@ -1,0 +1,6 @@
+D:\TasksProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\TasksProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\TasksProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\TasksProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\TasksProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\TasksProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
